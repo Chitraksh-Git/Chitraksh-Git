@@ -1,5 +1,5 @@
-Chitraksh Singh, Student, SB Patil Public School,
-Languages: Python,
+Chitraksh Singh, Student, COEP,
+Languages: Python
 
 <!---
 Chitraksh-Git/Chitraksh-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
